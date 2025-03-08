@@ -11,6 +11,6 @@ This guide shows how to perform undetectable (UD) operations in Trident using ho
 ## Table of Contents
 
 1. [HookFunction Example](https://github.com/Demonitycc/docs/blob/main/hookfunction.lua)
-2. [HookMetaMethod Example](#https://github.com/Demonitycc/docs/blob/main/hookmetamethod.lua)
+2. [HookMetaMethod Example](https://github.com/Demonitycc/docs/blob/main/hookmetamethod.lua)
 3. [Player Table Optimization](https://github.com/Demonitycc/docs/blob/main/playertable.lua)
 4. [Silent Aim UD](https://github.com/Demonitycc/docs/blob/main/SilentAim.lua)
