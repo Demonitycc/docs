@@ -10,15 +10,7 @@ This guide shows how to perform undetectable (UD) operations in Trident using ho
 
 ## Table of Contents
 
-1. [HookFunction Example](#hookfunction-example)
-2. [HookMetaMethod Example](#hookmetamethod-example)
-3. [Player Table Optimization](#player-table-optimization)
-4. [Silent Aim UD](#silent-aim-ud)
-
----
-
-## HookFunction Example
-
-This example shows how to hook `Character.IsGrounded` using `hookfunction`. Always use `newcclosure` to avoid detection.
-
-```lua
+1. [HookFunction Example](https://github.com/Demonitycc/docs/blob/main/hookfunction.lua)
+2. [HookMetaMethod Example](#https://github.com/Demonitycc/docs/blob/main/hookmetamethod.lua)
+3. [Player Table Optimization](https://github.com/Demonitycc/docs/blob/main/playertable.lua)
+4. [Silent Aim UD](https://github.com/Demonitycc/docs/blob/main/SilentAim.lua)
