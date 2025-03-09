@@ -1,4 +1,4 @@
-local charlist = getupvalue(modules.PlayerClient.updatePlayers, 1)
+local charlist = getupvalue(modules.Character.getGroundCastResult, 2)
 local function GetProjectileInfo()
     local equippedItem = charlist.GetEquippedItem()
     if not equippedItem then return 0, 0 end
